@@ -1,3 +1,7 @@
+<p>
+ <br>
+ <img src="gif-mario.gif" width="40%">
+</p>
 ## Olá! 
 
  About Me, Geovana Donegá Alves...
