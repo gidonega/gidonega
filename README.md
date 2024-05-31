@@ -1,14 +1,15 @@
+
+<h1 align="center">HI!!👋,I am Geovana Donegá Alves...
 <p>
  <br>
  <img src="gif-mario.gif" width="40%">
-</p>
-## Olá! 
+</p></h1>
 
- About Me, Geovana Donegá Alves...
+ <h2 align="center">About Me 
  
 <h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidonega&show_icons=true&theme=radical&locale=pt-br)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidonega&show_icons=true&theme=radical&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidonega&langs_count=8&show_icons=true&theme=radical)
 </h1>
