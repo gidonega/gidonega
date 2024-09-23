@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<!-- Image Section -->
-<div align="center">
-  <img height="50" src="https://github.com/gidonega/gidonega/assets/144058703/a6f66586-79f1-4df4-9402-33d83651aa57" alt="Custom Image">
-</div>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Gidonega/Gidonega/output/snake.yml" alt="Snake animation" />
 
 
